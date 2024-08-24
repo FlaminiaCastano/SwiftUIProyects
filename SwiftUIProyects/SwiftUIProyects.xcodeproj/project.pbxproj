@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A00B34ED2C7A760A00537132 /* ChallengeDay19.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00B34EC2C7A760A00537132 /* ChallengeDay19.swift */; };
+		A00B34EF2C7A7E2900537132 /* GuessTheFlag.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00B34EE2C7A7E2900537132 /* GuessTheFlag.swift */; };
 		A07D2E922C7982EA00535CDE /* SwiftUIProyectsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07D2E912C7982EA00535CDE /* SwiftUIProyectsApp.swift */; };
 		A07D2E942C7982EA00535CDE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07D2E932C7982EA00535CDE /* ContentView.swift */; };
 		A07D2E962C7982EB00535CDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A07D2E952C7982EB00535CDE /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		A00B34EC2C7A760A00537132 /* ChallengeDay19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeDay19.swift; sourceTree = "<group>"; };
+		A00B34EE2C7A7E2900537132 /* GuessTheFlag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlag.swift; sourceTree = "<group>"; };
 		A07D2E8E2C7982EA00535CDE /* SwiftUIProyects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIProyects.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A07D2E912C7982EA00535CDE /* SwiftUIProyectsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIProyectsApp.swift; sourceTree = "<group>"; };
 		A07D2E932C7982EA00535CDE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				A07D2E952C7982EB00535CDE /* Assets.xcassets */,
 				A07D2E972C7982EB00535CDE /* Preview Content */,
 				A00B34EC2C7A760A00537132 /* ChallengeDay19.swift */,
+				A00B34EE2C7A7E2900537132 /* GuessTheFlag.swift */,
 			);
 			path = SwiftUIProyects;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				A00B34ED2C7A760A00537132 /* ChallengeDay19.swift in Sources */,
 				A07D2E942C7982EA00535CDE /* ContentView.swift in Sources */,
 				A07D2E922C7982EA00535CDE /* SwiftUIProyectsApp.swift in Sources */,
+				A00B34EF2C7A7E2900537132 /* GuessTheFlag.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIProyectsApp: App {
     var body: some Scene {
         WindowGroup {
-            ChalengeDay19()
+            GuessTheFlag()
         }
     }
 }
