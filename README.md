@@ -6,12 +6,12 @@ This repository contains an app created by following the instructions from the '
 
 https://github.com/user-attachments/assets/7d207641-b577-41c8-8f0e-4b9345b1faf4
 
-# Proyect 2: 
+# Challenge Day: 
 **Challenge Day 19:** An app that allows you to enter a distance, select the unit of measurement (whether it's kilometers, meters, yards, or feet), choose the unit you want to convert to (for example, from meters to kilometers), and input the distance. It will then display the conversion result.
 
 https://github.com/user-attachments/assets/58c8b545-720a-4446-aed6-965e019501ad
 
-# Proyect 3: 
+# Proyect 2: 
 **Guess The Flag:** An app that lets you play a game where you are presented with 3 random country flags, and you have to choose the correct one. If you answer correctly, you earn 10 points; if you answer incorrectly, you lose 5 points. After 8 rounds, the app shows your total score, and you can start again.
 
 | First Screen | Correct answer | 
