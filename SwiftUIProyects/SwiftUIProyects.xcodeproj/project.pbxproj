@@ -13,6 +13,7 @@
 		A07D2E942C7982EA00535CDE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07D2E932C7982EA00535CDE /* ContentView.swift */; };
 		A07D2E962C7982EB00535CDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A07D2E952C7982EB00535CDE /* Assets.xcassets */; };
 		A07D2E992C7982EB00535CDE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A07D2E982C7982EB00535CDE /* Preview Assets.xcassets */; };
+		A0F9677C2D712DCF00F10B10 /* Proyect3.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F9677B2D712DCF00F10B10 /* Proyect3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A07D2E932C7982EA00535CDE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A07D2E952C7982EB00535CDE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A07D2E982C7982EB00535CDE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A0F9677B2D712DCF00F10B10 /* Proyect3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Proyect3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A07D2E972C7982EB00535CDE /* Preview Content */,
 				A00B34EC2C7A760A00537132 /* ChallengeDay19.swift */,
 				A00B34EE2C7A7E2900537132 /* GuessTheFlag.swift */,
+				A0F9677B2D712DCF00F10B10 /* Proyect3.swift */,
 			);
 			path = SwiftUIProyects;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				A07D2E942C7982EA00535CDE /* ContentView.swift in Sources */,
 				A07D2E922C7982EA00535CDE /* SwiftUIProyectsApp.swift in Sources */,
 				A00B34EF2C7A7E2900537132 /* GuessTheFlag.swift in Sources */,
+				A0F9677C2D712DCF00F10B10 /* Proyect3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

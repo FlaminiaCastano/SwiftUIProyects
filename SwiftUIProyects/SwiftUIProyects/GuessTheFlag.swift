@@ -45,9 +45,7 @@ struct GuessTheFlag: View {
                         Button {
                             flagTapped(number)
                         } label: {
-                            Image(countries[number])
-                                .clipShape(.capsule)
-                                .shadow(color: .white, radius: 10)
+                            FlagImage(imageName: countries[number])
                         }
                     }
                 }
@@ -108,6 +106,17 @@ struct GuessTheFlag: View {
         correctAnswer = Int.random(in: 0...2)
     }
 }
+
+struct FlagImage: View {
+    let imageName: String
+    
+    var body: some View {
+        Image(imageName)
+            .clipShape(.capsule)
+            .shadow(color: .white, radius: 10)
+    }
+}
+
 
 #Preview {
     GuessTheFlag()
